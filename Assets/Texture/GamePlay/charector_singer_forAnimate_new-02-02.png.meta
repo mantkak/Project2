@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 3f2db353afb646440b48fa971a432b76
+timeCreated: 1451358360
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charector_singer_forAnimate_new-02-02_0
+    21300002: charector_singer_forAnimate_new-02-02_1
+    21300004: charector_singer_forAnimate_new-02-02_2
+    21300006: charector_singer_forAnimate_new-02-02_3
+    21300008: charector_singer_forAnimate_new-02-02_4
+    21300010: charector_singer_forAnimate_new-02-02_5
+    21300012: charector_singer_forAnimate_new-02-02_6
+    21300014: charector_singer_forAnimate_new-02-02_7
+    21300016: charector_singer_forAnimate_new-02-02_8
+    21300018: charector_singer_forAnimate_new-02-02_9
+    21300020: charector_singer_forAnimate_new-02-02_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: charector_singer_forAnimate_new-02-02_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4037
+        width: 363
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_1
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2602
+        width: 2135
+        height: 2426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3240
+        width: 483
+        height: 647
+      alignment: 9
+      pivot: {x: .800518394, y: .114128761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1123
+        width: 830
+        height: 1933
+      alignment: 9
+      pivot: {x: .374086678, y: .689228415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1751
+        width: 488
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_5
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1666
+        width: 921
+        height: 483
+      alignment: 9
+      pivot: {x: .922369897, y: .163419545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1317
+        width: 180
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 281
+        width: 1324
+        height: 1161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 615
+        width: 244
+        height: 279
+      alignment: 9
+      pivot: {x: .595180094, y: .708100796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_9
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 82
+        width: 642
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_singer_forAnimate_new-02-02_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 57
+        width: 349
+        height: 543
+      alignment: 9
+      pivot: {x: .167277247, y: .884928584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

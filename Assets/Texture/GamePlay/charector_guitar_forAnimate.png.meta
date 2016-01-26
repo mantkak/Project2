@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 6f39ef7c7b690fc4983e6b622e097fb0
+timeCreated: 1451110577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charector_guitar_forAnimate_0
+    21300002: charector_guitar_forAnimate_1
+    21300004: charector_guitar_forAnimate_2
+    21300006: charector_guitar_forAnimate_3
+    21300008: charector_guitar_forAnimate_4
+    21300010: charector_guitar_forAnimate_5
+    21300012: charector_guitar_forAnimate_6
+    21300014: charector_guitar_forAnimate_7
+    21300016: charector_guitar_forAnimate_8
+    21300018: charector_guitar_forAnimate_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: charector_guitar_forAnimate_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4235
+        width: 1260
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_1
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2541
+        width: 1340
+        height: 2540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3356
+        width: 566
+        height: 640
+      alignment: 9
+      pivot: {x: .76670748, y: .835659802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3346
+        width: 563
+        height: 660
+      alignment: 9
+      pivot: {x: .149370477, y: .904661238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2434
+        width: 187
+        height: 493
+      alignment: 9
+      pivot: {x: .611078262, y: .808976054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2247
+        width: 296
+        height: 713
+      alignment: 9
+      pivot: {x: .616957605, y: .0824318752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_6
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2607
+        width: 159
+        height: 211
+      alignment: 9
+      pivot: {x: .412907809, y: .631258547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_7
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2482
+        width: 151
+        height: 460
+      alignment: 9
+      pivot: {x: .568781376, y: .108651072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 898
+        width: 2047
+        height: 1252
+      alignment: 9
+      pivot: {x: .489852726, y: .599544525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charector_guitar_forAnimate_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 188
+        width: 279
+        height: 401
+      alignment: 9
+      pivot: {x: .309190333, y: .7655164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

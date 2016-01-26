@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1A1EBCF3-0486-4C23-D103-04068AD22385}") = "VikingMelody", "Assembly-CSharp.csproj", "{4CB6D708-537B-B321-8611-6A15BD848631}"
+EndProject
+Project("{1A1EBCF3-0486-4C23-D103-04068AD22385}") = "VikingMelody", "Assembly-CSharp-Editor.csproj", "{1A0873D2-660E-599B-4F16-1BBC2AC45029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB6D708-537B-B321-8611-6A15BD848631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB6D708-537B-B321-8611-6A15BD848631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB6D708-537B-B321-8611-6A15BD848631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB6D708-537B-B321-8611-6A15BD848631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0873D2-660E-599B-4F16-1BBC2AC45029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0873D2-660E-599B-4F16-1BBC2AC45029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0873D2-660E-599B-4F16-1BBC2AC45029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0873D2-660E-599B-4F16-1BBC2AC45029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
